@@ -12,11 +12,19 @@
 
 💻 Day 2: Planning the Technical Foundation
 
-
 •	🔧 Technical Setup:
 
 o	Frontend: Built with Next.js, integrated with Sanity CMS and third-party APIs.
+
 o	System Architecture: 🗂️ Simple diagram showing interactions between components (Frontend ↔ CMS ↔ APIs).
+
+o	API Design: 🌐 Example endpoint: /products/id (GET for specific product details).
+
+o	📑 Documentation: System architecture, API structure, workflow diagrams.
+
+📘 Day 2: Planning the Technical Foundation
+📄 View Detailed Day 2 Document (PDF)
+
 
 Day 3: API Integration and Data Migration Report
 
