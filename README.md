@@ -1,5 +1,4 @@
-"Marketplace Builder Hackathon 2025"
-
+                  **** "Marketplace Builder Hackathon 2025"***
 
 📅 Day 1: Laying the Foundation
 
@@ -19,34 +18,28 @@
 o	Frontend: Built with Next.js, integrated with Sanity CMS and third-party APIs.
 o	System Architecture: 🗂️ Simple diagram showing interactions between components (Frontend ↔ CMS ↔ APIs).
 
-Day 3: API Integration and Data Migration Report - Bandage
+Day 3: API Integration and Data Migration Report
+
 🔍 Overview
+
 •	📤 Fetched product data (images, titles, prices, etc.) from an external API and mapped it to Sanity CMS.
+
 •	🛠️ Populated Sanity CMS fields dynamically for consistent data management.
+
 •	✅ Successfully exported and re-imported data using Sanity CLI for verification.
+
 🛠️ Future Steps
 •	🤖 Automate data fetching and updates.
+
 •	🛍️ Enhance features like inventory management and UI/UX.
+
 📘 Day 3: API Integration and Data Migration
+
 📄 View Detailed Day 3 Document (PDF)
 
 
 
 
-Day 3: API Integration and Data Migration Report - Bandage
-🔍 Overview
-•	📤 Fetched product data (images, titles, prices, etc.) from an external API and mapped it to Sanity CMS.
-•	🛠️ Populated Sanity CMS fields dynamically for consistent data management.
-•	✅ Successfully exported and re-imported data using Sanity CLI for verification.
-🛠️ Future Steps
-•	🤖 Automate data fetching and updates.
-•	🛍️ Enhance features like inventory management and UI/UX.
-📘 Day 3: API Integration and Data Migration
-📄 View Detailed Day 3 Document (PDF)
 
-o	API Design: 🌐 Example endpoint: /products/id (GET for specific product details).
-o	📑 Documentation: System architecture, API structure, workflow diagrams.
 
-📘 Day 2: Planning the Technical Foundation
 
-📄 View Detailed Day 2 Document (PDF)
